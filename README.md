@@ -1,7 +1,7 @@
 # FX504GE_FX80GE_EFI_OC引导
-####硕飞行堡垒五_FX504GE_FX80GE i7-8750H笔记本安装黑苹果BIG SUR 11.2
+>硕飞行堡垒五_FX504GE_FX80GE i7-8750H笔记本安装黑苹果BIG SUR 11.2
 
-已装黑苹果:macOS Big Sur 11.2
+- 已装黑苹果:macOS Big Sur 11.2
 
 >配置(华硕飞行堡垒五_FX504GE_FX80GE)
 - 处理器 英特尔 Core i7-8750H @ 2.20GHz 六核
@@ -67,7 +67,7 @@
 4.支持系统升级
 >捐赠
 > 
-找到资源不易，如果对你有帮助，捐赠1元2元给兄弟买杯水喝。
+资源不易，如果对你有帮助，给兄弟捐瓶水钱。
 
 ![my-logo.png](https://web-1251987244.cos.ap-chengdu.myqcloud.com/pay/21614440937_.pic.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300 "my-logo")
 ![my-logo.png](https://web-1251987244.cos.ap-chengdu.myqcloud.com/pay/31614440937_.pic.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/256 "my-logo")
